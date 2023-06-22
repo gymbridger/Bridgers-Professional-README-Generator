@@ -12,8 +12,8 @@ Table Of Content
 ## Installation
 To use the README generator, the following packages are required:
 
-inquirer
-fs
+- inquirer
+- fs
 
 To install these packages, run the command: npm install inquirer fs
 
