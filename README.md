@@ -4,10 +4,10 @@
 This repository contains a professional README generator built as a project for the University of Utah coding bootcamp's module 9 homework.
 
 ## Table of Contents
-Installation
-Usage
-Credits
-License
+*Installation
+*Usage
+*Credits
+*License
 
 ## Installation
 To use the README generator, the following packages are required:
