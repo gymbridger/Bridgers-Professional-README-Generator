@@ -20,11 +20,11 @@ To install these packages, run the command: npm install inquirer fs
 ## Usage 
 To generate a README, follow these steps:
 
-Open the command line. 
-Navigate to the project directory.
-Run the following command: node index.js
-You will be shown a series of questions about your project.
-Once all the questions are answered, a README.md file will be generated.
+- Open the command line. 
+- Navigate to the project directory.
+- Run the following command: node index.js
+- You will be shown a series of questions about your project.
+- Once all the questions are answered, a README.md file will be generated.
 
 ## Credits
 Me 
